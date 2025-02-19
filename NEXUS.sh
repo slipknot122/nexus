@@ -1,10 +1,4 @@
-channel_logo() {
-  echo -e '\033[0;31m'
-  echo -e '................'
-  echo -e 'NEXUS'
-  echo -e '................'
-  echo -e '\e[0m'
-}
+
 
 download_node() {
   echo 'Starting installation...'
